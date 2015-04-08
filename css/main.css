@@ -181,8 +181,7 @@ h1, h2, h3, h4, h5, h6, p {
     z-index: 8999;
     /*background: rgba(136,246,0,0.8);
     opacity: 1;*/
-	background: rgba(179, 175, 175, 1);
-	opacity: 0.5;
+	background: rgba(173, 211, 231, 0.5);
     display: table;
     visibility: visible;
     -webkit-transition: opacity 0.3s ease-out, visibility 0.2s ease-out;
